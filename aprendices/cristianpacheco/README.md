@@ -29,4 +29,4 @@ Información Basica
 - [atributos publicos y privados java](ADSO12.2.md)
 - [Desarrollo con peticion GET a Backend un objeto](ADSO13)
 - [Desarrollo con peticion GET a Backend lista objetos](ADSO14)
-- [Maquetado Html Veterinaria](ADSO16)
+- [Maquetado Html Veterinaria](ADSO17)
