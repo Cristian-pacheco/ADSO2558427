@@ -1,3 +1,4 @@
+```
 import 'dart:convert' as convert;
 import 'template.dart';
 
@@ -16,3 +17,4 @@ class User{
     email = jsonResponse['data']['email'];
   }
 }
+```
